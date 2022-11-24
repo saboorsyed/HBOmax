@@ -1,6 +1,6 @@
 
 #title{
-    background-image:url("C:/Users/syeds/OneDrive/Desktop/Web dev/HBO max/Images/home/home4.jpg");
+    background-image:url("Images/home/home4.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     padding:20px;
@@ -58,7 +58,7 @@ h3{
 }
 #Content{
     margin-top: 0;
-    background-image: url("C:/Users/syeds/OneDrive/Desktop/Web dev/HBO max/Images/Features/feature.jpg");
+    background-image: url("Images/Features/feature.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 3%;
@@ -82,7 +82,7 @@ h2{
 }
 
 #pricing{
-    background-image:url("C:/Users/syeds/OneDrive/Desktop/Web dev/HBO max/Images/pricing/pricing.jpg");
+    background-image:url("Images/pricing/pricing.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -111,7 +111,7 @@ h2{
  
 } 
 #downloads{
-    background-image: url("C:/Users/syeds/OneDrive/Desktop/Web dev/HBO max/Images/download/download.jpg");
+    background-image: url("Images/download/download.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding:10%;
