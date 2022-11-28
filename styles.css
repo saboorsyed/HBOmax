@@ -139,3 +139,43 @@ h2{
 .social-icons{
     padding:10px 5px;
 }
+@media (max-width:768px){
+    body{
+        margin: 0;
+        padding:0;
+    }
+#title{
+    margin: 0;
+    padding:0;
+    background-image:url("C:/Users/syeds/OneDrive/Desktop/Web dev/HBO max/Images/home/Mobile/home4mob.jpg") ;
+    
+}
+    h1{
+        font-size:1.5rem;
+        text-shadow: 4px 4px 15px black;
+    }
+    .mobilediv{
+        position: relative;
+        bottom: 20px;
+        
+        
+    }
+    .hbo-logo{
+        
+        width:40%;
+        height:10%;
+    }
+    h2{
+        font-size:1.5rem;
+    }
+    .content-text{
+        font-size: 1rem;
+    }
+    .row{
+        padding:10px;
+    }
+    
+
+
+
+}
